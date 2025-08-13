@@ -19,7 +19,7 @@ Transformo ideas en experiencias digitales eficientes y centradas en el usuario.
 ## 🧑‍💻 Tech Stack & Skills
 
 - **Lenguajes:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS, PHP
-- **Frameworks & Librerías:** React, Redux, Vue.js, Quasar, Next.js, Node.js, Express, Bootstrap, Tailwind, Wordpress
+- **Frameworks & Librerías:** React, Vue.js, Quasar, Next.js, Node.js, Express, Bootstrap, Tailwind, Wordpress
 - **Herramientas:** Git, Docker, JIRA, Kanban
 - **Bases de datos:** PostgreSQL
 - **Otras especialidades:** SEO, Responsive design, Accesibilidad, UX/UI, Testing, Automatización con IA (ChatGPT/DeepSeek)
@@ -88,8 +88,8 @@ I transform ideas into efficient, user-centered digital experiences. I'm passion
 
 ## 🧑‍💻 Tech Stack & Skills
 
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS, PHP
-- **Frameworks & Libraries:** React, Redux, Vue.js, Quasar, Next.js, Node.js, Express, Bootstrap, Tailwind, Wordpress
+- **Languages:** JavaScript (ES6+), HTML5, CSS3, SASS, PHP
+- **Frameworks & Libraries:** React, Vue.js, Quasar, Next.js, Node.js, Express, Bootstrap, Tailwind, Wordpress
 - **Tools:** Git, Docker, JIRA, Kanban
 - **Databases:** PostgreSQL
 - **Other specialties:** SEO, Responsive design, Accessibility, UX/UI, Testing, Automation with AI (ChatGPT/DeepSeek)
