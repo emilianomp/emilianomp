@@ -1,12 +1,10 @@
-# 👋 Hola, soy Emiliano Mendoza Peña
+# 👋 Hola, soy Emiliano 
 
 ```js
 const emp10 = {
     name: "Emiliano Mendoza Peña",
-    nickname: "Mendo",
     hometown: "Buenos Aires, Argentina",
     favouriteTeam: "Estudiantes de La Plata",
-    livingAt: "La Plata, Argentina",
     roles: [
         "Frontend Developer",
         "Web Interfaces & UX Specialist",
