@@ -6,23 +6,23 @@ const emp10 = {
     hometown: "Buenos Aires, Argentina",
     favouriteTeam: "Estudiantes de La Plata",
     roles: [
-        "Frontend Developer",
+        "Full Stack Web Developer",
         "Web Interfaces & UX Specialist",
         "Entrepreneur"
     ],
     code: ["HTML5", "CSS3", "SASS", "JavaScript (ES6+)", "PHP"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vue.js", "Quasar", "Next.js"],
+            js: ["React", "Vue", "Quasar", "Next.js"],
             css: ["Bootstrap", "Tailwind", "SASS"],
             cms: ["Wordpress"]
         },
         backEnd: {
-            js: ["Node.js", "Express"]
+            js: ["Node.js", "Express", "Next.js"]
         },
-        databases: ["PostgreSQL"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
         tools: ["Git", "Docker", "JIRA", "Kanban"],
-        ai: ["ChatGPT", "DeepSeek"]
+        ai: ["ChatGPT", "Copilot", "DeepSeek"]
     },
     workPlaces: {
         dex360: {
