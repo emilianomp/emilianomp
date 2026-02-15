@@ -13,7 +13,7 @@ const emp10 = {
     code: ["HTML5", "CSS3", "SASS", "JavaScript (ES6+)", "PHP"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vue", "Quasar", "Next.js"],
+            js: ["React", "Vue", "Quasar"],
             css: ["Bootstrap", "Tailwind", "SASS"],
             cms: ["Wordpress"]
         },
